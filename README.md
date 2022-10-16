@@ -1,4 +1,4 @@
-# leogreen
+# leotopia
 
 ## Plan
 Der Plan dieses Projektes in der 5. Klasse ist es, einerseits ein weitreichendes Konzept mit vielen verschiedenen Smart-Home Lösungen beim Immotopia Wettbewerb einzureichen und andererseits eine der Lösungen zu implementieren.
