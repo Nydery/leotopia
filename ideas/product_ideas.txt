@@ -1,0 +1,20 @@
+Überlegungen Produkte:
+-------------------------
+Projektteam:
+Feuchtigkeitssensor im Rasen => triggert Sprenkleranlage
+Temperatursensor => Thermostat einer Heizung steuern
+Bewegungs- oder Annäherungssensor => Einschalten der Türkamera
+
+Bereiche f. Nachhaltigkeit:
+- Wasser sparen (Dusche, Waschmaschine, ...)
+- Strom sparen (Verbrauchsbasierte Automatismen, ...)
+
+Stakeholder & Extern:
+1) Messen von Stromverbrauch je Dose => Bewusstsein schaffen (od. je nach Wert Aktion ausführen)
+	Auflistung v. Verbrauch zB absteigend sortiert
+	Benennung v. Verbrauchern
+1~) Steckdosen-"Middleware" messen von abnormalem Stromverbrauch => 
+	Ausnahmen setzen (Waschm. wäscht während Abwesenheit), 
+	Lernprogramm (System erkennt Verbrauchsmuster u. schlägt Ausnahmen & Nutzungsprofil vor: ANPASSBAR),
+	Information od. automatisches Abschalten v. zB vergessenen Stromverbrauchern (wählbar)
+2) 

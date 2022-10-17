@@ -1,0 +1,12 @@
+LEOTOPIA:
+
+	Türschloss mit Stimmerkennung
+	Rollos aufmachen, aufwachen mit natürlichem Sonnenlicht
+	Steckdosen schalten ab wenn keiner Zuhause und abnormalem Stromverbrauch
+	Automatische Haustierfütterung
+	Automatische Putzroboter (Staubsauger, Fensterroboter (haftet am Glas) : wenn abwesend)
+User-basierte Themes (Licht-, Rollo-, etc einstellung)
+	Erkennung von Beabsichtigungen (zB. wenn am Weg zur Garage => Garagentor öffnen)
+	Automatisches Blumengießen (Humidity sensor)
+	Vitalscan (Gewicht + Röntgen? + Ultraschall?, ...) erkennt Krankheiten, Mängel, ...
+?Automatische Schadensmeldung an Versicherung
