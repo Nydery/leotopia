@@ -9,4 +9,6 @@ Es ergeben sich also folgende Ziele:
 - Eines der Konzepte als umgesetztes Produkt
 
 ## Ideen
-...
+Siehe [ideas folder](./ideas)
+
+![Mindmap Ideas](./ideas/mindmap_brainstorm.jpg)
