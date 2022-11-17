@@ -1,0 +1,23 @@
+2-3 minuten (Tag der offnenen Tür)
+~5 minuten (Konzept einreichung)
+
+Einleitung:
+- Probleme aufzeigen
+-	Energieverbrauch und -kosten			=> Stromsparen wichtig
+- 	Digitale Vernetzung stark ausgeprägt (Big Data) => Sicherheit & Privatsphäre wichtig
+-	Effizienz durch Zeitersparnis			=> Einsparen von Aufgaben
+
+Emotionen durch Privatsphäre
+- Unwohl, Scheiße, Paranoid, Überwachung, Vertrauensprobleme
+
+Drehbuch:
+- Morgens aufwachen => Licht geht an, Rollos fahren hoch, Heizung wird angepasst
+- Aufstehen => Kaffeemaschine macht Kaffee, Nachrichten werden abgespielt
+- Anziehen und geht in die Garage zum Auto => Garage öffnet sich
+- Losfahren aus der Garage => Garage schließt sich wieder, Abwesenheitsprogramm startet (Alarmanlage und Sicherheitsmechanismen stellen scharf, Putzroboter starten, Blumen werden gegossen, Lichter und Stromverbraucher ausgeschalten)
+- Haustiere stehen irgendwann auf => Haustierfütterung erfolgt, vordefinierte Menge Futter wird freigegeben
+- Kühlschrank erkennt Bedarf an Lebensmittel => Bestellt diese oder schreibt sie zur Einkaufsliste
+- Heimkommen von der Arbeit => Auto wird erkannt (Kennzeichen OCR zB.), Garage öffnet sich, Heizung wird vorgewärmt, Sicherheitsmechanismen schalten ab, Haus erkennt wer nach Hause gekommen ist
+- Auto steht wieder in Garage => Garage schließt sich wieder, Eingestellte Licht-, Temperatur-, Rollovoreinstellung und präferierte Musik der Person werden eingestellt
+- Haus wird betreten => Essen wird vorgewärmt, Licht im Raum der betreten wird geht automatisch an, Musik wechselt den Raum mit wohin man geht
+- Person zieht sich um und geht Zähneputzen => Abendroutine wird aktiviert (Rollos fahren runter, Sicherheitsmechanismen schalten scharf, Wecker wird gestellt
