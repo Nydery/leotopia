@@ -1,6 +1,3 @@
-2-3 minuten (Tag der offnenen Tür)
-~5 minuten (Konzept einreichung)
-
 Einleitung:
 - Probleme aufzeigen
 -	Energieverbrauch und -kosten			=> Stromsparen wichtig
@@ -12,12 +9,21 @@ Emotionen durch Privatsphäre
 
 Drehbuch:
 - Morgens aufwachen => Licht geht an, Rollos fahren hoch, Heizung wird angepasst
+https://www.pexels.com/de-de/foto/schwarzer-ringglockenwecker-682422/
+
 - Aufstehen => Kaffeemaschine macht Kaffee, Nachrichten werden abgespielt
+https://www.pexels.com/de-de/foto/flacher-fokus-auf-weisse-keramik-kaffeetasse-912901/
+
 - Anziehen und geht in die Garage zum Auto => Garage öffnet sich
 - Losfahren aus der Garage => Garage schließt sich wieder, Abwesenheitsprogramm startet (Alarmanlage und Sicherheitsmechanismen stellen scharf, Putzroboter starten, Blumen werden gegossen, Lichter und Stromverbraucher ausgeschalten)
 - Haustiere stehen irgendwann auf => Haustierfütterung erfolgt, vordefinierte Menge Futter wird freigegeben
+https://www.pexels.com/de-de/foto/lebensmittel-schussel-holzboden-essen-8434635/
+
 - Kühlschrank erkennt Bedarf an Lebensmittel => Bestellt diese oder schreibt sie zur Einkaufsliste
+https://live-production.wcms.abc-cdn.net.au/559388a9b99c2a46932555c110db062d?impolicy=wcms_crop_resize&cropH=2667&cropW=4000&xPos=0&yPos=0&width=862&height=575
+
 - Heimkommen von der Arbeit => Auto wird erkannt (Kennzeichen OCR zB.), Garage öffnet sich, Heizung wird vorgewärmt, Sicherheitsmechanismen schalten ab, Haus erkennt wer nach Hause gekommen ist
 - Auto steht wieder in Garage => Garage schließt sich wieder, Eingestellte Licht-, Temperatur-, Rollovoreinstellung und präferierte Musik der Person werden eingestellt
 - Haus wird betreten => Essen wird vorgewärmt, Licht im Raum der betreten wird geht automatisch an, Musik wechselt den Raum mit wohin man geht
 - Person zieht sich um und geht Zähneputzen => Abendroutine wird aktiviert (Rollos fahren runter, Sicherheitsmechanismen schalten scharf, Wecker wird gestellt
+https://www.pexels.com/de-de/foto/pinsel-tisch-bambus-mockup-4465127/
